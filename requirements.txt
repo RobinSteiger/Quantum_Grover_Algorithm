@@ -1,0 +1,13 @@
+uv
+
+qiskit
+qiskit-aer
+pylatexenc
+
+cirq
+amazon-braket-sdk
+pennylane
+
+matplotlib
+numpy
+jupyter
