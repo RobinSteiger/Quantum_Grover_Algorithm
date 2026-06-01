@@ -11,3 +11,4 @@ pennylane
 matplotlib
 numpy
 jupyter
+ipykernel

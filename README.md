@@ -1,3 +1,3 @@
 # Quantum_Grover_Algorithm
 
-The report of the projet can be found in: REPORT.md
+All the code and the report can be found in *tp_grover_groupe6.ipynb*.
